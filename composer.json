@@ -14,7 +14,7 @@
 		"phpunit/phpunit": "*"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^6.0.4-alpha",
+		"automattic/jetpack-changelogger": "^6.0.4",
 		"yoast/phpunit-polyfills": "^3.0.0",
 		"antecedent/patchwork": "^2.2"
 	},
