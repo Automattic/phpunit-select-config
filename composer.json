@@ -32,7 +32,6 @@
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
-		"autotagger": true,
 		"branch-alias": {
 			"dev-trunk": "1.0.x-dev"
 		},
